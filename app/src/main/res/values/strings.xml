@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Text Spammer</string>
+    <string name="number_hint">Phone Number to Text</string>
+    <string name="message_hint">Message to Spam</string>
+    <string name="frequency_hint">Frequency of Texts (min)</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+</resources>
